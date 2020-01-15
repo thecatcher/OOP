@@ -13,4 +13,5 @@ tom.eat()
 
 print(tom)
 addr = id(tom)
-print()
+print("%x"%addr)
+
